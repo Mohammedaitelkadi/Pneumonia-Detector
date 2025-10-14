@@ -1,0 +1,27 @@
+# Application Configuration Template
+# Copy this file to application.properties and update the values according to your environment
+
+spring.application.name=pneumia_backend
+
+# Database Configuration
+spring.datasource.url=jdbc:postgresql://localhost:5432/pneumonia_detector
+spring.datasource.username=your_username
+spring.datasource.password=your_password
+spring.datasource.driver-class-name=org.postgresql.Driver
+
+# JPA Configuration
+spring.jpa.hibernate.ddl-auto=validate
+spring.jpa.show-sql=true
+spring.jpa.properties.hibernate.format_sql=true
+
+# Connection Pool
+spring.datasource.hikari.maximum-pool-size=20
+spring.datasource.hikari.minimum-idle=5
+
+# File Upload Configuration
+app.upload.dir=C:/pneumonia_uploads
+spring.servlet.multipart.max-file-size=20MB
+spring.servlet.multipart.max-request-size=20MB
+
+# FastAPI Service Configuration (if needed)
+# app.fastapi.base-url=http://localhost:8000
