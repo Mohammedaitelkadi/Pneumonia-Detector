@@ -362,19 +362,8 @@ We welcome contributions! Please follow these steps:
 
 ---
 
-## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
-
-## 👥 Team
-
-- **Lead Developer**: [Your Name](https://github.com/yourusername)
-- **AI/ML Engineer**: [ML Engineer Name](https://github.com/mlengineer)
-- **Backend Developer**: [Backend Dev Name](https://github.com/backenddev)
-
----
 
 ## 🙏 Acknowledgments
 
@@ -383,16 +372,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **FastAPI Team** for the high-performance Python web framework
 - **Medical Imaging Community** for datasets and research
 
----
 
-## 📞 Support
-
-- **📧 Email**: support@pneumonia-detector.com
-- **💬 Discord**: [Join our community](https://discord.gg/pneumonia-detector)
-- **📖 Documentation**: [Full Documentation](https://docs.pneumonia-detector.com)
-- **🐛 Issues**: [Report Bugs](https://github.com/yourusername/pneumonia-detector/issues)
-
----
 
 <div align="center">
 
